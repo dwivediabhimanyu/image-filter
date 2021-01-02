@@ -1,4 +1,4 @@
-# Image Filtering Microservice
+![header](https://dvlprabhi-dp.vercel.app/?text=Image%20Filtering%20Microservice)
 
 It is a Node-Express application which runs a simple script to process images.
 
@@ -39,3 +39,7 @@ deploy:
 ### Screenshot
 
 Navigate to `./deployment_screenshots` directory which contains screenshot of application and deployment on AWS Elastic Beanstalk.
+
+---
+
+If you liked Dynamic Text Header used in this README, check it out [here](https://gist.github.com/dwivediabhimanyu/f7f11956abc3ebd8015a668834c3d6c0) .
